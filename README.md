@@ -47,8 +47,8 @@ When running the program, a menu will appear:
 3 2 1
 
 Polynomials:
-- \( f(x) = 2x^{3} + 3x^{2} - 1 \)  
-- \( g(x) = 3x^{2} + 2x + 1 \)  
+- f(x) = 2x<sup>3</sup> + 3x<sup>2</sup> - 1  
+- g(x) = 3x<sup>2</sup> + 2x + 1  
 
 ### Reals
 2
@@ -60,8 +60,8 @@ Polynomials:
 2.1 3 0 -1.4
 
 Polynomials:
-- \( f(x) = x^{2} - 2x + 1 \)  
-- \( g(x) = 2.1x^{3} + 3x^{2} - 1.4 \)  
+- f(x) = x<sup>2</sup> - 2x + 1  
+- g(x) = 2.1x<sup>3</sup> + 3x<sup>2</sup> - 1.4  
 
 ### Rationals
 2
@@ -73,8 +73,8 @@ Polynomials:
 3 1 2 4
 
 Polynomials:
-- \( f(x) = 2x^{2} + \tfrac{3}{2}x + 1 \)  
-- \( g(x) = 3x + \tfrac{2}{4} \)  
+- f(x) = 2x<sup>2</sup> + (3/2)x + 1  
+- g(x) = 3x + (2/4)   
 
 ### Complex
 2
@@ -86,8 +86,8 @@ Polynomials:
 3 1 2 4
 
 Polynomials:
-- \( f(x) = (2+i)x^{2} + (3+2i)x + (1+i) \)  
-- \( g(x) = (3+i)x + (2+4i) \)  
+- f(x) = (2+i)x<sup>2</sup> + (3+2i)x + (1+i)  
+- g(x) = (3+i)x + (2+4i)   
 
 ## ⚙️ Implementation Details
 - **Classes**:
