@@ -35,33 +35,59 @@ When running the program, a menu will appear:
 - The program displays their **sum**, **product**, and evaluates them for a given input.  
 - For real polynomials, you can also provide an interval `[a, b]` to search for roots using **Newton’s method**.  
 
----
-
 ## 📊 Example Inputs
 
 ### Integers
 3
+
 2 3 0 -1
+
 2
+
 3 2 1
+
+Polynomials:
+- \( f(x) = 2x^{3} + 3x^{2} - 1 \)  
+- \( g(x) = 3x^{2} + 2x + 1 \)  
 
 ### Reals
 2
+
 1 -2 1
+
 3
+
 2.1 3 0 -1.4
+
+Polynomials:
+- \( f(x) = x^{2} - 2x + 1 \)  
+- \( g(x) = 2.1x^{3} + 3x^{2} - 1.4 \)  
 
 ### Rationals
 2
+
 2 1 3 2 1 1
+
 1
+
 3 1 2 4
+
+Polynomials:
+- \( f(x) = 2x^{2} + \tfrac{3}{2}x + 1 \)  
+- \( g(x) = 3x + \tfrac{2}{4} \)  
 
 ### Complex
 2
+
 2 1 3 2 1 1
+
 1
+
 3 1 2 4
+
+Polynomials:
+- \( f(x) = (2+i)x^{2} + (3+2i)x + (1+i) \)  
+- \( g(x) = (3+i)x + (2+4i) \)  
 
 ## ⚙️ Implementation Details
 - **Classes**:
